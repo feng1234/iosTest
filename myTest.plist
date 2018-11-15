@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chuanyuesangsq.lyjy</string>
+				<string>personal.feng.test2</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>测试</string>
+				<string>测试2</string>
 			</dict>
 		</dict>
 	</array>
